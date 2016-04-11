@@ -1,2 +1,2 @@
 main();
-printf("hej\n");
+printf("hejsan\n");
